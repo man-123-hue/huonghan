@@ -2,8 +2,8 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 
        local Window = MakeWindow({
          Hub = {
-         Title = "script dead rails",
-         Animation = "☠️ dead rails"
+         Title = "chao12345692",
+         Animation = "ngu Tiếng anh"
          },
         Key = {
         KeySystem = false,
@@ -30,24 +30,36 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
       })
       
 ------ Tab
-     local Tab1o = MakeTab({Name = "fram "})
-     local Tab2o = MakeTab({Name = "menu"})
+     local Tab1o = MakeTab({Name = "script chạy nhanh,…"})
+     local Tab2o = MakeTab({Name = "script god mode "})
 ------- BUTTON
     
     AddButton(Tab1o, {
-     Name = "gồm bond",
+     Name = "chạy nhanh",
     Callback = function()
 	  local Settings = {
   JoinTeam = "Pirates"; -- Pirates/Marines
   Translator = true; -- true/false
 }
-    AddButton(Tab1o, {
-     Name =  "fram bond",
+
+loadstring(game:HttpGet("https://pastefy.app/yokswoU3/raw",true))()
+
+AddButton(Tab1o, {
+     Name = "đi trên không",
     Callback = function()
 	  local Settings = {
   JoinTeam = "Pirates"; -- Pirates/Marines
   Translator = true; -- true/false
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))(Settings)
-  end
-  })
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Float'))()
+
+AddButton(Tab1o, {
+     Name = "bay",
+    Callback = function()
+	  local Settings = {
+  JoinTeam = "Pirates"; -- Pirates/Marines
+  Translator = true; -- true/false
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt"))()
